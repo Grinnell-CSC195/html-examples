@@ -25,3 +25,11 @@ DIV.ramblings {
 SPAN.keyword {
   color: green;
 }
+
+p.disclaimer {
+  color: yellow;
+}
+
+dt {
+  font-weight: bold;
+}
